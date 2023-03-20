@@ -1,0 +1,10 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
+
+#reference "$CORE-REQ-ROT$.params"
+
+HSM_INTRO_WHEN_TO_SHOW = "0.000000"
+
+HSM_DECAL_LAYER_ORDER = "1.000000"
+
+BackgroundImage = "../../../../../../overlays/GameBezels/Naomi/$GAME$.png"
+DecalImage = "../../../Graphics/SEGA_Naomi/Decal.png"

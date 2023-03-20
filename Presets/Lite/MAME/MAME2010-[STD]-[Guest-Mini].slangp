@@ -1,0 +1,7 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
+
+#reference "MAME2010_$CORE-REQ-ROT$.params"
+
+HSM_INTRO_WHEN_TO_SHOW = "0.000000"
+
+BackgroundImage = "../../../../../../overlays/ArcadeBezels/$GAME$.png"
