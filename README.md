@@ -7,6 +7,8 @@ For roms that do not have specific overlays, a default image will be loaded. (Mo
 
 At least one of the systems (GameCube) has only the default overlay. If updates are made to the project, any updated graphics will work without changes to the presets.
 
+The presets will require RetroArch 1.15.0 , and Mega Bezel V1.12.0_2023-03-11 or later.
+
 ### * Note * Your roms will need to match the No-Intro naming convention of the Bezels.
 
 ___
