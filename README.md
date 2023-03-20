@@ -1,7 +1,7 @@
 ### Duimon - Bezel Project Presets
 ___
 
-Thisis a full set of Mega Bezel presets designed to work with The Bezel Project's themed overlays. They will automatically load game overlays as backgrounds. There are Advanced, Standard, and Lite variations. For handheld systems there is a choice of either a CRT or LCD-GRID based preset.
+This is a full set of Mega Bezel presets designed to work with The Bezel Project's themed overlays. They will automatically load game overlays as backgrounds. There are Advanced, Standard, and Lite variations. For handheld systems there is a choice of either a CRT or LCD-GRID based preset.
 
 For roms that do not have specific overlays, a default image will be loaded. (Most are the Bezel Project default overlays. A very few custom images or modifications were necessary.)
 
