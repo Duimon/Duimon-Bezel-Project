@@ -21,11 +21,12 @@ You will need to download The Bezel Project overlays. I recommend using the inst
 
 You will have to perform the installation on a separate retroarch install, and move your "overlays" folder into your into your current retroarch folder, or backup your retroarch.cfg and restore it after the install.
 
+### ** Important ** The installer edits the retroarch.cfg VERY early in the installation process. If you are backing up the retroarch.cfg file, do so "BEFORE" running the app.
+
 ___
 
-We want the installer to download "themed" overlays.
 
-### Preferences
+### Installer Preferences
 
 ![](Images/preferences.png)
 
