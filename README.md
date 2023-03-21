@@ -9,7 +9,7 @@ At least one of the systems (GameCube) has only the default overlay. If updates 
 
 The presets will require RetroArch 1.15.0 , and Mega Bezel V1.12.0_2023-03-11 or later.
 
-### * Note * Your roms will need to match the No-Intro naming convention of the Bezels.
+### ** Your roms will need to match the No-Intro naming convention of the Bezels.**
 
 ___
 
@@ -17,9 +17,13 @@ You will need to download The Bezel Project overlays. I recommend using the inst
 
 [https://github.com/thebezelproject/](https://github.com/thebezelproject/)
 
+### ** The installer will change your retroarch settings. (retroarch.cfg) **
+
+You will have to perform the installation on a separate retroarch install, and move your "overlays" folder into your into your current retroarch folder, or backup your retroarch.cfg and restore it after the install.
+
 ___
 
-Since we won't be using the overlays as "overlays", and we want the "themed" packages, a few options need to be selected.
+We want the installer to download "themed" overlays.
 
 ### Preferences
 
@@ -31,9 +35,9 @@ Make sure to select "Themed" in the Bezel Style dropdown menu.
 
 ![](Images/download.png)
 
-Select the "No" radio button to disable "Overwrite existing bezel cfg files."
+Select the "No" radio button for "Overwrite existing bezel cfg files." (In case you are currently using any other overlays.)
 
-Proceed to download your choice of Bezels.
+Once you are ready, proceed to download your choice of Bezels.
 
 ___
 
